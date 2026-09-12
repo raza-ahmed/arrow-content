@@ -1,0 +1,34 @@
+{
+  "formatVersion": 1,
+  "version": 98,
+  "keyId": "k1",
+  "minAppVersion": "0.0.0",
+  "packs": [
+    {
+      "packId": "pack-01",
+      "path": "packs/pack-01.json",
+      "sha256": "ea9ce24abcf3326bf510d46ace02b9ea389a0789db0231ebe08fe4bc28dc98c7",
+      "formatVersion": 1,
+      "levelCount": 25,
+      "order": 1
+    },
+    {
+      "packId": "pack-02",
+      "path": "packs/pack-02.json",
+      "sha256": "dc60d94a2b59af9600fc61561693b4f2efa3fa967efe78f132393b1c5146cf33",
+      "formatVersion": 1,
+      "levelCount": 25,
+      "order": 2
+    },
+    {
+      "packId": "pack-03",
+      "path": "packs/pack-03.json",
+      "sha256": "2fe51a23beded37fa003ea37e400a708bc9cc78c6ed2b96ae257c193e934c8a1",
+      "formatVersion": 1,
+      "levelCount": 23,
+      "order": 3
+    }
+  ],
+  "disabledPackIds": [],
+  "message": null
+}
